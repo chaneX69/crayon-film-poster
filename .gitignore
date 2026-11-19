@@ -1,0 +1,12 @@
+.DS_Store
+*.skill
+references/images/
+inputs/
+outputs/
+work/
+logs/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
